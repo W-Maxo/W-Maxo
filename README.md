@@ -4,7 +4,7 @@ I'ts my personal repository.
 
 **Languages and Tools i like to use**  
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
