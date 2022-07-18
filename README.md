@@ -6,15 +6,13 @@ I'ts my personal repository.
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/48/000000/powershell.png"/>
+<img src="https://min.io/resources/img/logo/MINIO_wordmark.png"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_wordmark_logo_icon_146367.png"/>
 
 ![Metrics](/github-metrics.svg)
 
