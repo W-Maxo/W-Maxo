@@ -10,7 +10,7 @@ I'ts my personal repository.
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-<img src="https://min.io/resources/img/logo/MINIO_wordmark.png"/>
+<img src="https://github.com/W-Maxo/W-Maxo/blob/main/minio48.png?raw=true"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/redis_plain_wordmark_logo_icon_146367.png"/>
 
