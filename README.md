@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'ts my personal repository.
+I'ts my repository.
 
 **Languages and Tools i like to use**  
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
